@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">firebase</string>
+    <string name="app_name">作伙做麵包</string>
     <string name="no_data">Not Signed In</string>
     <string name="sign_in">登入</string>
     <string name="sign_out">登出</string>
