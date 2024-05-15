@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="no_data">Not Signed In</string>
+    <string name="sign_in">登入</string>
+    <string name="sign_out">登出</string>
+    <string name="register">註冊</string>
+    <string name="login">登入</string>
+    <string name="dont_have_account">沒有帳號?</string>
+    <string name="already_have_account">已經有帳號?</string>
+    <string name="email">電子信箱</string>
+    <string name="password">密碼</string>
+    <string name="create_account">建立帳號</string>
+
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="Cia">食材
+高筋麵粉 280克
+速發酵母 3克
+鹽 5克
+水 225毫升
+橄欖油 15毫升</string>
+    <string name="Cia_desc1">取一容器，倒入水、橄欖油、速發酵母混合均勻後，倒入高筋麵粉、鹽拌勻成麵糰，並蓋上蓋子靜置30分鐘。</string>
+    <string name="Cia_desc2">時間到後開蓋，手沾一點水，將麵糰的4邊各向中間折起，接著再上蓋靜置30分鐘。</string>
+    <string name="Cia_desc3">在麵糰表面撒上少許麵粉，桌面上也撒上少許麵粉，並將裝有麵糰的容器倒扣，讓麵糰從容器中落下。</string>
+    <string name="Cia_desc4">麵糰完全落下後，在它的表面再撒上少許麵粉，稍微塑型後分切成4等份。</string>
+    <string name="Cia_desc5">分切好的麵糰，撒上少許麵粉後，蓋上毛巾靜置發酵30分鐘。</string>
+    <string name="Cia_desc6">時間到將麵糰放在烤盤上，送進預熱的烤箱中，以220度烤16～18分鐘即可。</string>
+
+    <string name="Cro">材料Ａ:高筋麵粉300g、砂糖10g、鹽5g、酵母粉6g、有鹽奶油20g,其他材料:水170ml、奶油（包摺用）80g、奶油（增色用）10g、粗鹽2小撮
+    </string>
+    <string name="Cro_desc1">在調理碗內放入A、倒溫水。</string>
+    <string name="Cro_desc2">用筷子繞圈攪拌，讓粉類吸收水分。拌到攪不動後，用手揉拌約5分鐘，拌至柔滑。黏在手上的麵團沾高筋麵粉（材料份量外）拿掉，揉進麵團裡。</string>
+    <string name="Cro_desc3">揉整成團後，包上保鮮膜，冬天放50分鐘，夏天放約40分鐘。待麵團膨脹至1.5～2倍大，表面微凸，基礎發酵即完成。用手指沾高筋麵粉在中央戳洞，如果洞沒有回縮，表示狀態OK。</string>
+    <string name="Cro_desc4">用手掌輕輕按壓麵團，壓出空氣。移到砧板上，用擀麵棍擀成直徑25cm的圓形後，以放射狀切成8等份。</string>
+    <string name="Cro_desc5">再用擀麵棍擀成底邊15cm、高20cm的三角形，把切成條狀的冰奶油放在底邊上方3cm處。</string>
+    <string name="Cro_desc6">拉起底邊包住奶油，用手指按壓貼合，接著往上捲。</string>
+    <string name="Cro_desc7">最後的收邊朝下擺入烤盤，蓋上保鮮膜，靜置至表面呈現鼓脹狀態（冬天放15分鐘，夏天約10分鐘），最後發酵即完成。趁麵團發酵的時候將烤箱預熱至200度。</string>
+    <string name="Cro_desc8">在耐熱容器內放入增色用的奶油，微波（600W）加熱20秒使其融化，刷塗在麵團表面。撒上粗鹽，放進200度的烤箱下層烤18分鐘。烤好後留在烤盤靜置放涼約10分鐘。</string>
+
+    <string name="Lemon">甜塔皮
+糖粉 70g
+鹽 2g
+無鹽奶油 100g
+低筋麵粉 250g
+蛋 1顆
+檸檬餡
+砂糖 80g
+檸檬皮 1顆
+檸檬汁 80g
+蛋 2顆
+無鹽奶油 80g</string>
+    <string name="Lem_desc1">先將甜塔皮部份的奶油切成小丁在室溫中軟化.烤箱預熱170度. 軟化好的奶油加入糖粉跟鹽,用刮刀拌勻.</string>
+    <string name="Lem_desc2">加入低筋麵粉以刮刀用切拌的方式拌勻, 拌至像沙粒的狀態.</string>
+    <string name="Lem_desc3">加入蛋揉成麵團,一開始可以先用括刀攪拌,等到大致都均勻後,最後再用手揉成麵團,不能揉過度,揉到表面光滑不黏手就可以了.(如果一開始就用手揉,因為麵團很濕,會把手弄得很髒,所以等到差不多都均勻後再用手把麵團揉勻就可以了).</string>
+    <string name="Lem_desc4">將麵團用保鮮膜包起來,稍微壓平,放進冰箱冰30分鐘.</string>
+    <string name="Lem_desc5">在桌面上灑上高筋麵粉當作手粉,取40g的麵團,在麵團兩面都灑上手粉(因為麵團很黏, 所以雖然已在桌面上撒上手粉了,但在麵團兩面都還是再撒上手粉,這樣一來保證在桿麵皮時,絕對不會沾黏囉!).將麵團桿成約厚0.3cm的麵皮,麵皮要比塔模還要再大一點,約超出2-3cm左右.</string>
+    <string name="Lem_desc6">將橄好的麵皮鋪在塔模上,大拇指從塔模內緣輕輕按壓,將麵皮貼在塔模內緣.</string>
+    <string name="Lem_desc7">用小刀切掉周圍多餘的麵皮.</string>
+    <string name="Lem_desc8">用叉子在塔模底部戳洞,接著放進冰箱冰15分鐘. 冰好後放入170度的烤箱烤10分鐘, 烤至塔皮微微的金黃色即可.烤好後脫模放在烤架上放涼.</string>
+    <string name="Lem_desc9">塔皮在烘烤的時候,將檸檬餡的奶油切成小丁放在室溫中軟化. 接著製作檸檬餡:將砂糖與檸檬皮混合,讓砂糖沾上檸檬的香氣,接著再加入蛋和檸檬汁用打蛋器攪拌均勻.</string>
+    <string name="Lem_desc10">攪拌好後隔水加熱,加熱時需不停的用打蛋器攪拌,加熱到82度即可離火,放涼至50度.</string>
+    <string name="Lem_desc11">將軟化好的奶油丁加入檸檬餡中,先用打蛋器攪拌,再放入果汁機中攪打,讓質地更為細緻.接著放置冰箱冷藏1小時.</string>
+    <string name="Lem_desc12">將檸檬餡填入塔皮中,用抹刀抹平,放進冰箱冷藏.</string>
+    <string name="Lem_desc13">上桌之前灑上一些檸檬皮做裝飾即可.</string>
+
+    <string name="Bun">食材
+高筋麵粉
+258克
+酵母
+8.4克
+糖
+48克
+鹽
+2.4克
+蛋
+55克
+常溫牛奶
+120毫升
+無鹽奶油（室溫）
+24克
+全蛋液
+適量
+奶油內餡
+有鹽奶油（室溫軟化）
+200克
+</string>
+    <string name="Bun_desc1">除了奶油，其他食材全部混勻，揉成形後再加入室溫無鹽奶油。</string>
+    <string name="Bun_desc2">繼續揉成團後蓋上保鮮膜，室溫發酵70分鐘。
+＊因每個發酵環境不同，發酵時間也不一，建議在等待60分即可開始測試是否發酵完成，測試發酵狀態：食指沾取麵粉，垂直輕壓入麵糰表面，不回彈表示發酵完全，馬上回彈代表發酵不足，按壓處繼續陷下去代表發酵過頭。</string>
+    <string name="Bun_desc3">拍掉大空氣，再將麵團分成15等份，整圓後蓋上保鮮膜靜置10分鐘。</string>
+    <string name="Bun_desc4">將麵團再次整圓，蓋上保鮮膜發酵至2倍大。</string>
+    <string name="Bun_desc5">進烤箱前塗上全蛋液，200度C烤10分鐘。</string>
+    <string name="Bun_desc6">烤麵包期間剛好可以做內餡，室溫軟化的有鹽奶油稍微用電動打蛋器打發。</string>
+    <string name="Bun_desc7">分次加入糖粉，打至細緻微白，再加入椰奶，拌勻即可。</string>
+    <string name="Bun_desc8">將內餡裝入擠花袋，利用細的擠花頭灌入烤好的餐包內即完成～喜歡爆漿口感的可以在吃前再160度C烤3分鐘左右。</string>
+
+</resources>
